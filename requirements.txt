@@ -1,0 +1,12 @@
+InquirerPy
+jupiter-python-sdk
+pyfiglet
+pandas
+tabulate
+yaspin
+dexscreener
+colorama
+solders
+solana
+base58
+httpx
